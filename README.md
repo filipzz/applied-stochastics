@@ -13,7 +13,7 @@ taught at [Department of Fundamentals of Computer Science](https://cs.pwr.edu.pl
 
 
 
-* [video](https://cs.pwr.edu.pl/zagorski/applied-stochastics/lecture2-jumping-square.mp4)
-* [notebook](01_intro/randomWalk1.ipynb)
+* [videos](https://cs.pwr.edu.pl/zagorski/applied-stochastics/)
+* [notebook](02_intro/randomWalk1.ipynb)
 
 
